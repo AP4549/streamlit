@@ -29,7 +29,7 @@ pip install streamlit pandas plotly
 1. Clone the repository:
 ```bash
 git clone https://github.com/AP4549/streamlit.git
-cd streamlit-auth-dashboard
+cd streamlit
 ```
 
 2. Run the Streamlit app:
