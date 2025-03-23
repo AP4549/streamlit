@@ -28,7 +28,7 @@ pip install streamlit pandas plotly
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/streamlit-auth-dashboard.git
+git clone https://github.com/AP4549/streamlit.git
 cd streamlit-auth-dashboard
 ```
 
